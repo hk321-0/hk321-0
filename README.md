@@ -1,9 +1,4 @@
-![ZagrljajKrevetGIF](https://github.com/user-attachments/assets/92520463-6a54-4129-aa98-74bf21555399)## Hi there 👋
-
-<!--
-**hk321-0/hk321-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋
 
 - 🔭 I'm I’m currently working on a Sign Language Interpreter App which acts as an interpreter in a conversation between Deaf and Hearing people
 - 👯 I’m looking to collaborate on the App.
